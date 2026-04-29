@@ -1,0 +1,11 @@
+Source Used = Tycho
+RA DEC = 6.3208 64.15
+log_lambda_max = 0.9897305272881107
+fitparam_values = [16.91925435  4.        ]
+status = {'grad': array([-4.59699923e-06, -1.15961042e-01]), 'task': 'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL', 'funcalls': 16, 'nit': 8, 'warnflag': 0, 'skyllh_minimizer_n_reps': 0, 'n_llhratio_func_calls': 16}
+Unblinding Results (DIFFERENT From Sensitivity and DP which is caluclated for a single index
+TS = 1.979
+ns = 16.92
+gamma = 4.00
+-log10(p_local) = -0.00
+1.426e-15+1.618e-16-2.690e-15 (E/1000 GeV)^(-4.00) 1/(GeV s cm^2 sr)
