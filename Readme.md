@@ -7,8 +7,13 @@
 ### This code is run simply by using the ipython notebook 
 
 ## Folders:
-- Cache: This is used while running the code and to save signal and background trails. Ideally if everything works, cache should be empty after the code is run. Currently the sensitivity portion is under developemnt so cahce will not be empty if the code is run.
+- Cache: This is used while running the code and to save signal and background trails. Cache should have empty folders if the job ran.
 - Image_plots: Stores the relevant Images produced from the ipython notebook code
 - Data_files: This should contain the relevant data after all code is run.
+
+## Main Outputs:
+1. Differential Sensitivity Plots (See Image_plots)
+2. Best Fit Results (See Data_files)
+3. Best Fit likelihood (2 variables, ns and gamma) (see Image_plots)
 
 For any additional details or if you use the code or if you have questions please contact me at adesai.physics@gmail.com

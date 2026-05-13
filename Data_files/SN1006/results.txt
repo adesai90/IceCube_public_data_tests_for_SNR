@@ -1,0 +1,15 @@
+Source Used = SN1006
+RA DEC = 225.7 -41.95
+log_lambda_max = 0.0
+fitparam_values = [0. 1.]
+status = {'grad': array([ 0.83705165, -0.        ]), 'task': 'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL', 'funcalls': 11, 'nit': 9, 'warnflag': 0, 'skyllh_minimizer_n_reps': 0, 'n_llhratio_func_calls': 11}
+Unblinding Results (DIFFERENT From Sensitivity and DP which is caluclated for a single index
+TS = 0.000
+ns = 0.00
+gamma = 1.00
+-log10(p_local) = 0.94
+0.000e+00+-1.540e-14-1.540e-14 (E/1000 GeV)^(-1.00) 1/(GeV s cm^2 sr)
+
+
+ For Differential Sensitivity and DP see numpy file starting with sensitivity_dp_results_ 
+The Array is emin, emax, sensitivity, 3sigma DP, 5sigma DP 
