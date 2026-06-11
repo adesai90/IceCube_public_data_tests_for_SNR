@@ -8,8 +8,16 @@
 
 ## Folders:
 - Cache: This is used while running the code and to save signal and background trails. Cache should have empty folders if the job ran.
-- Image_plots: Stores the relevant Images produced from the ipython notebook code
-- Data_files: This should contain the relevant data after all code is run.
+
+- FOLDERS FOR 14 YEARS of TRACKS DATA:
+--Image_plots_14yr: Stores the relevant Images produced from the ipython notebook code
+--Data_files_14yr: This should contain the relevant data after all code is run.
+--Citation: https://arxiv.org/abs/2605.19040v1
+
+- FOLDERS FOR 10 YEARS of TRACKS DATA:
+--Image_plots_10yr: Stores the relevant Images produced from the ipython notebook code
+--Data_files_10yr: This should contain the relevant data after all code is run.
+--Citation: https://arxiv.org/abs/2101.09836
 
 ## Main Outputs:
 1. Differential Sensitivity Plots (See Image_plots)

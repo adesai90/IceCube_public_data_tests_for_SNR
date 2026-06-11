@@ -1,0 +1,15 @@
+Source Used = CassA
+RA DEC = 350.9 58.81
+log_lambda_max = 0.08129788513742908
+fitparam_values = [6.17760081 4.        ]
+status = {'grad': array([-1.23052293e-06, -1.81467873e-02]), 'task': 'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL', 'funcalls': 15, 'nit': 7, 'warnflag': 0, 'skyllh_minimizer_n_reps': 0, 'n_llhratio_func_calls': 15}
+Unblinding Results (DIFFERENT From Sensitivity and DP which is caluclated for a single index
+TS = 0.163
+ns = 6.18
+gamma = 4.00
+-log10(p_local) = 0.36
+3.122e-16+-4.459e-16-1.070e-15 (E/1000 GeV)^(-4.00) 1/(GeV s cm^2 sr)
+
+
+ For Differential Sensitivity and DP see numpy file starting with sensitivity_dp_results_ 
+The Array is emin, emax, sensitivity, 3sigma DP, 5sigma DP 
